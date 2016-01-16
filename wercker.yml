@@ -23,5 +23,5 @@ build:
     - script:
         name: checkstyle
         code: |
-          mvn clean install
+          mvn clean deploy
 
